@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                pl.lublin.wsei.java.cwiczenia.lab3a/pl.lublin.wsei.java.cwiczenia.lab3a.HelloApplication
+                                pl.lublin.wsei.java.cwiczenia.lab3a/pl.lublin.wsei.java.cwiczenia.lab3b.HelloApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>

@@ -1,4 +1,4 @@
-package pl.lublin.wsei.java.cwiczenia.lab3a;
+package pl.lublin.wsei.java.cwiczenia.lab3b;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

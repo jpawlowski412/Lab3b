@@ -1,4 +1,4 @@
-package pl.lublin.wsei.java.cwiczenia.lab3a;
+package pl.lublin.wsei.java.cwiczenia.lab3b;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
