@@ -5,7 +5,8 @@
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.lublin.wsei.java.cwiczenia.lab3b.Controller">
    <children>
-      <Button fx:id="mainButton" layoutX="74.0" layoutY="584.0" mnemonicParsing="false" onAction="#btnOpenFileAction" text="Otwórz plik" textFill="RED" />
-      <Label fx:id="lbFile" layoutX="188.0" layoutY="588.0" prefHeight="17.0" prefWidth="556.0" style="-fx-font-style: italic;" text="Proszę wczytać plik..." />
+      <Button fx:id="mainButton" layoutX="83.0" layoutY="45.0" mnemonicParsing="false" onAction="#btnOpenFileAction" text="Otwórz plik" textFill="RED" />
+      <Label fx:id="lbFile" layoutX="175.0" layoutY="49.0" prefHeight="17.0" prefWidth="556.0" style="-fx-font-style: italic;" text="Proszę wczytać plik..." />
+      <ListView fx:id="lstInfografiki" layoutX="83.0" layoutY="85.0" prefHeight="523.0" prefWidth="517.0" />
    </children>
 </AnchorPane>
